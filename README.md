@@ -16,6 +16,18 @@ once with your home EasyPi, and it carries your home network's protection,
 parental controls, photos and cameras wherever you go — on home Wi-Fi, mobile
 data or someone else's network.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="docs/images/screenshots/home.png" alt="Home screen with today's DNS statistics" width="100%"><br><sub>Home</sub></td>
+    <td align="center" width="20%"><img src="docs/images/screenshots/protection.png" alt="Protection with the Normal and Strict modes" width="100%"><br><sub>Protection</sub></td>
+    <td align="center" width="20%"><img src="docs/images/screenshots/vpn.png" alt="Chameleon VPN connected" width="100%"><br><sub>VPN</sub></td>
+    <td align="center" width="20%"><img src="docs/images/screenshots/gallery.png" alt="EasyPi Photos backup" width="100%"><br><sub>Gallery</sub></td>
+    <td align="center" width="20%"><img src="docs/images/screenshots/cameras.png" alt="Camera snapshots from the home EasyPi" width="100%"><br><sub>Cameras</sub></td>
+  </tr>
+</table>
+
 ## Features
 
 | | Section | What it does |
