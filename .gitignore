@@ -1,0 +1,58 @@
+# Gradle, Kotlin and IDE state
+/.gradle/
+/.kotlin/
+/.idea/
+.vscode/
+*.iml
+/local.properties
+**/build/
+/.build/
+.cxx/
+.externalNativeBuild/
+/captures/
+
+# Native library built by Build-Libtailscale.ps1; never commit generated binaries.
+/app/libs/*.aar
+/app/libs/*.jar
+
+# Release artifacts
+*.apk
+*.aab
+*.apk.sha256
+*.idsig
+*-sources.jar
+
+# Signing keys and credentials stay outside the repository.
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+*.lineage
+signing.json
+.signing/
+.env
+.env.*
+
+# Python tooling
+*.egg-info/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Private packet captures are runtime evidence, never source artifacts.
+*.[pP][cC][aA][pP]
+*.[pP][cC][aA][pP][nN][gG]
+*.[cC][aA][pP]
+*.[pP][cC][aA][pP].[gG][zZ]
+*.[pP][cC][aA][pP][nN][gG].[gG][zZ]
+
+# Logs, heap dumps and OS files
+*.log
+*.hprof
+.DS_Store
+Thumbs.db
+desktop.ini

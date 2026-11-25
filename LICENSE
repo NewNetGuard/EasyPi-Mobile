@@ -1,0 +1,187 @@
+EasyPi Source Available License
+Version 1.3
+
+Copyright (c) 2026 NewNetGuard (EasyPi Project).
+All rights reserved.
+
+IMPORTANT: READ THIS LICENSE BEFORE USING, COPYING, OR MODIFYING EASYPI.
+
+EasyPi is source available software. It is not open source as that term is
+defined by the Open Source Initiative. The software is licensed, not sold.
+
+--------------------------------------------------------------------
+1. DEFINITIONS
+--------------------------------------------------------------------
+
+"Software" means the EasyPi-owned source code, binaries, scripts,
+configuration files, documentation, and other materials distributed with
+this license. It does not include third-party components governed by their
+own licenses.
+
+"Personal, non-commercial use" means private use for yourself or your household
+on devices and servers that you own or control, at home or in a private lab,
+without direct or indirect commercial benefit. It includes ordinary use by
+family members and guests of your private home network and personal remote
+access. It excludes operating a public, commercial, or managed service for
+third parties.
+
+"Official Repository" means a repository of the EasyPi Project published by
+the copyright holder under https://github.com/NewNetGuard, including the EasyPi
+repository at https://github.com/NewNetGuard/EasyPi and the EasyPi Mobile
+repository, or a successor location designated there by the copyright holder.
+
+--------------------------------------------------------------------
+2. LICENSE GRANT
+--------------------------------------------------------------------
+
+Subject to continued compliance with this license, you are granted a limited,
+worldwide, royalty-free, non-exclusive, non-transferable license to:
+
+- View, download, and inspect the source code for evaluation, education,
+  interoperability review, and authorized security research, including review
+  in a professional capacity. This permission does not authorize deployment
+  for business operations or a commercial service.
+- Install and run official EasyPi releases for personal, non-commercial use.
+- Build the Software from source, modify it, sign your own builds with your own
+  key, and run those builds for your own personal, non-commercial use. Your own
+  signature does not make a build an official EasyPi release or grant access to
+  the copyright holder's signing keys.
+- Fork the Official Repository on GitHub, publish source code changes in that
+  fork, and submit pull requests to the Official Repository, provided that the
+  fork:
+  (a) is used only for non-commercial purposes and is not monetized;
+  (b) keeps this license and all copyright, attribution, and license notices,
+      including those of third-party components;
+  (c) contains source code only, without built binaries, release archives,
+      installers, container images, or other ready-to-run packages of the
+      Software or a modified version, including in the fork's releases,
+      package registries, or published build artifacts; and
+  (d) is not presented as an official EasyPi release.
+  GitHub's platform rights to view and fork the repository under the
+  applicable GitHub Terms of Service are not limited by this license; the
+  restrictions below govern uses and distribution beyond those rights.
+- Quote reasonable portions of the source code when reporting a bug or
+  vulnerability. This does not authorize disclosure of credentials, private
+  keys, or personal data belonging to others.
+
+No other rights are granted by implication or otherwise.
+
+--------------------------------------------------------------------
+3. RESTRICTIONS
+--------------------------------------------------------------------
+
+Without prior written permission from the copyright holder, you may not:
+
+- Use the Software for any commercial, professional, revenue-generating, or
+  business operational purpose, including internal business operations,
+  except for the source inspection and review expressly permitted by Section 2.
+- Sell, rent, lease, sublicense, monetize, or charge for access to the
+  Software or any product or service based substantially on it.
+- Offer the Software or a modified version as a hosted or managed service,
+  including SaaS, PaaS, VPN, DNS, relay, security, monitoring, storage, or
+  network-management services for third parties. Personal household use and
+  personal remote access as defined in Section 1 remain permitted.
+- Publish, mirror, repackage, or independently redistribute the source code
+  of the Software or a modified version, except in a GitHub fork that meets
+  the conditions of Section 2 or as independently granted through GitHub's
+  applicable platform terms.
+- Distribute built binaries, release archives, installers, container images,
+  or other ready-to-run packages of the Software or a modified version by any
+  means, including through a fork. Running your own build for your own
+  personal, non-commercial use as permitted by Section 2 is not distribution.
+- Remove, hide, or alter copyright, attribution, license, or ownership
+  notices.
+- Use the EasyPi name, logo, visual identity, or other project branding to
+  suggest sponsorship, endorsement, or an official relationship.
+- Misrepresent a modified or self-signed build as an official EasyPi release,
+  or bypass authentication, authorization, or update verification on a system
+  that you do not own or lack authorization to administer. Building and signing
+  your own private copy as permitted by Section 2 is not prohibited.
+
+Commercial use, redistribution, OEM use, and other rights may be available
+under a separate written agreement with the copyright holder.
+
+--------------------------------------------------------------------
+4. CONTRIBUTIONS
+--------------------------------------------------------------------
+
+You retain copyright in an original contribution that you submit to the
+Official Repository. By intentionally submitting a contribution, you grant
+the copyright holder a perpetual, worldwide, irrevocable, royalty-free,
+transferable, and sublicensable license to use, reproduce, modify, distribute,
+license, relicense, publicly display, publicly perform, and otherwise exploit
+that contribution as part of EasyPi or related works.
+
+You represent that you have the legal right to grant these permissions and
+that your contribution does not knowingly include third-party material under
+incompatible terms.
+
+--------------------------------------------------------------------
+5. THIRD-PARTY COMPONENTS
+--------------------------------------------------------------------
+
+EasyPi includes or depends on third-party software, data, and services. Those
+materials remain governed by their respective licenses and terms. This license
+applies only to EasyPi-owned materials and does not limit rights granted by a
+third-party license.
+
+--------------------------------------------------------------------
+6. TRADEMARKS
+--------------------------------------------------------------------
+
+This license does not grant permission to use the EasyPi name, logo, or other
+project marks except as reasonably necessary to identify the unmodified
+Software or describe a contribution to the Official Repository.
+
+--------------------------------------------------------------------
+7. NO WARRANTY
+--------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NON-INFRINGEMENT.
+
+--------------------------------------------------------------------
+8. LIMITATION OF LIABILITY
+--------------------------------------------------------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER AND CONTRIBUTORS
+SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGE, OR OTHER LIABILITY, INCLUDING
+NETWORK OUTAGES, DATA LOSS, SECURITY INCIDENTS, MISCONFIGURATION, LOST PROFITS,
+OR SERVICE INTERRUPTION, ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE.
+
+--------------------------------------------------------------------
+9. TERMINATION
+--------------------------------------------------------------------
+
+Your rights under this license terminate automatically if you violate its
+terms. If the violation is curable and you fully cure it within 30 days after
+becoming aware of it, your rights are reinstated provisionally unless the
+copyright holder notifies you otherwise in writing. A later violation
+terminates your rights permanently unless the copyright holder agrees
+otherwise in writing.
+
+Upon termination, you must stop using the Software and remove all copies in
+your possession or control, except copies that applicable law requires you to
+retain.
+
+--------------------------------------------------------------------
+10. GENERAL TERMS
+--------------------------------------------------------------------
+
+This license states the permissions granted by the copyright holder here and
+does not withdraw rights independently granted under applicable law, GitHub's
+platform terms, or a third-party component's license. The accompanying EULA
+describes operational responsibilities; if it conflicts with this license on
+permissions, restrictions, termination, or reinstatement, this license controls.
+Any waiver, exception, commercial license, or additional permission must be in
+writing and signed by the copyright holder. If any provision is unenforceable,
+the remaining provisions remain in effect.
+
+By using, copying, modifying, or contributing to the Software, you acknowledge
+that you have read and accepted this license.
+
+--------------------------------------------------------------------
+
+End of License

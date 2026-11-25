@@ -1,0 +1,102 @@
+END USER LICENSE AGREEMENT (EULA)
+EasyPi Mobile
+
+Last updated: 2026-11-25
+
+IMPORTANT: READ THIS AGREEMENT BEFORE USING EASYPI MOBILE.
+
+This EULA is a legal agreement between you ("User") and the EasyPi author
+("Author"). It supplements the LICENSE file and describes operational risk and
+user responsibilities.
+
+--------------------------------------------------------------------
+1. SOFTWARE DESCRIPTION
+--------------------------------------------------------------------
+
+EasyPi Mobile is the Android companion app for an EasyPi home server. It can
+run an Android VPN service that filters DNS and network connections with the
+home EasyPi's policy, carry the phone's traffic through an encrypted tunnel to
+the home EasyPi or to a VPS, back up photos and videos, and show cameras.
+
+It operates at the network level of the phone and may affect its connectivity.
+
+--------------------------------------------------------------------
+2. LICENSE RELATIONSHIP
+--------------------------------------------------------------------
+
+Your legal rights to use EasyPi Mobile are defined by LICENSE.
+EasyPi Mobile is source available, not OSI open source. The LICENSE permits
+source inspection, personal non-commercial household use, private
+modification, self-signed private builds, and GitHub forks and contributions as
+described in LICENSE. GitHub platform rights remain governed by its applicable
+terms. This does not grant general redistribution or commercial deployment
+rights. LICENSE controls permissions, restrictions, termination, and
+reinstatement if this EULA or summary differs from it.
+
+--------------------------------------------------------------------
+3. USER RESPONSIBILITY
+--------------------------------------------------------------------
+
+You are responsible for:
+
+- Correct installation, pairing, and configuration.
+- Backups of photos and other data you rely on.
+- Compliance with local laws (privacy, network usage, parental control, etc.).
+- Informing the users of a phone when legally required, for example when
+  parental controls apply to it.
+
+--------------------------------------------------------------------
+4. NETWORK AND SECURITY IMPACT
+--------------------------------------------------------------------
+
+You acknowledge EasyPi Mobile may:
+
+- Block, redirect, or route the phone's traffic.
+- Send the domain names the phone connects to to the paired home EasyPi for
+  policy decisions; the home EasyPi may log them.
+- Block connections when the home EasyPi's policy cannot be verified.
+
+Incorrect configuration may cause internet outages or partial service failures
+on the phone.
+
+--------------------------------------------------------------------
+5. THIRD-PARTY SOFTWARE
+--------------------------------------------------------------------
+
+EasyPi Mobile uses third-party packages and services. Their license terms
+apply to those components; see THIRD_PARTY_LICENSES.md. EasyPi's proprietary
+terms do not replace third-party obligations.
+
+--------------------------------------------------------------------
+6. NO WARRANTY
+--------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED.
+
+--------------------------------------------------------------------
+7. LIMITATION OF LIABILITY
+--------------------------------------------------------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR
+DIRECT OR INDIRECT DAMAGES, INCLUDING LOSS OF CONNECTIVITY, DATA LOSS,
+MISCONFIGURATION, OR SERVICE INTERRUPTION.
+
+--------------------------------------------------------------------
+8. TERMINATION
+--------------------------------------------------------------------
+
+Termination of rights to use EasyPi Mobile, and any reinstatement of those
+rights, are governed by Section 9 of LICENSE. This EULA does not create a
+separate termination mechanism that overrides LICENSE.
+
+--------------------------------------------------------------------
+9. ACCEPTANCE
+--------------------------------------------------------------------
+
+By installing, running, or using EasyPi Mobile, you acknowledge that you have
+read and accepted this EULA and LICENSE.
+
+--------------------------------------------------------------------
+
+END OF AGREEMENT
